@@ -1,6 +1,7 @@
 ![Crypto](https://tse4.mm.bing.net/th?id=OIP.cqoaUyIKryQpISKXkC2fLwHaFj&pid=Api&P=0)
 
 ### This is a single-page app track the price of coins from [coingecko](www.coingecko.com).
+![alt text](https://img.shields.io/badge/last%20commit-March%202023-orange)
 
 
 #### Getting start the project.
